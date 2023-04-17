@@ -7,7 +7,7 @@ dependencies:
   - numpy
   - seaborn
   - statsmodels
-  - python=3.8
+  - python=3.11
   - scipy
   - ipython
   - pandas
