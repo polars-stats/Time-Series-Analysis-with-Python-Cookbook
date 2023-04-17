@@ -20,6 +20,6 @@ dependencies:
   - html5lib
   - alpha_vantage
   - pandas-datareader
-  - psycopg2
+  - psycopg
   - sqlalchemy
 
